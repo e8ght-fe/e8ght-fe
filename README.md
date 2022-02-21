@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm e8ght</h1>
-<h3 align="center">A frontend developer (primarily) from Cleveland, Ohio</h3>
+<h3 align="center">I'm a (primarily) frontend developer from Cleveland, Ohio</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
