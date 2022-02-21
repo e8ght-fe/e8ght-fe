@@ -1,0 +1,3 @@
+- I'm e8ght
+- Contact me on Discord @offtop#5704
+- I do web development
