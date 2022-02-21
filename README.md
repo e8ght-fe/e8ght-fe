@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/e8ght_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/e8ght_dev" height="30" width="40" /></a>
-<a href="https://discord.gg/offtop#5704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="offtop#5704" height="30" width="40" /></a>
+<a href="https://discord.com/users/807810212060594189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="offtop#5704" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
