@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm e8ght</h1>
 <h3 align="center">I'm a (primarily) frontend developer from Cleveland, Ohio</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
+[![Discord Presence](https://lanyard.cnrad.dev/api/807810212060594189)](https://discord.com/users/807810212060594189)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
