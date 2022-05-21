@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm e8ght</h1>
-<h3 align="center">I'm a (primarily) frontend developer from Cleveland, Ohio</h3>
+<h1 align="center">Hi, I'm e8ght</h1>
+<h3 align="center">I'm a (primarily) frontend developer from Cleveland, Ohio for hire.</h3>
 
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/807810212060594189)](https://discord.com/users/807810212060594189)
+<div style="width: 20em; height: fit-content; background: #2b2b2b; border-radius: 1em; box-shadow: 0 0 60px 0px rgba(10, 10, 10, 0.6);">
+	<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; align-content: center; text-align: center; padding: 10px; position: relative;">
+		<h2>Status:</h2>
+		<div style="display: flex; flex-direction: row; justify-content: unset; align-content: unset; transform: translateX(-50%); left: 15%; position: relative;">	
+			<img style="width: 25px; height: fit-content; margin: 0 10px" src="https://thumbs.gfycat.com/DisastrousAltruisticCanary-size_restricted.gif"><h1 style=" border: none; color: #ff6f">Busy</h3>
+		</div>
+	</div>
+</div>
   
 </div>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
