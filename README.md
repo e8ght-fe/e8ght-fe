@@ -18,4 +18,4 @@
   <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width: "20px" height="20px"> Svelte </l1>
 </ul>
 
-![e8ght's GitHub stats](https://github-readme-stats.vercel.app/api?username=e8ght-fe&count_private=true&hide_border=true&theme=dark)
+![e8ght's GitHub stats](https://github-readme-stats.vercel.app/api?username=e8ght-fe&count_private=true&hide_border=true&theme=dark&cache_seconds=1800)
